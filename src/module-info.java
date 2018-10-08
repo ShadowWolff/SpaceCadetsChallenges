@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Alex
+ *
+ */
+interface spaceCadetsFirstChallenge {
+}
