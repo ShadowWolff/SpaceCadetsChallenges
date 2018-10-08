@@ -28,7 +28,7 @@ public class IOInterface {
 		System.out.println("Enter username : ");
 		String user_id = scan.nextLine();
 		
-		// check wheter the user_id is valid
+		// check whether the user_id is valid
 		
 		return user_id;
 	}
